@@ -25,7 +25,7 @@ SECRET_KEY = 'c43fhz-d*4v9d&(_#e=itwibu+g=n#v_vha*go*7x$%)$@ms$4'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = [nastiagonchi.pythonanywhere.com]
 
 
 # Application definition
